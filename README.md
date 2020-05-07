@@ -1,4 +1,4 @@
-# Multi-Modal-Logistics-Parks-India--Hackathon
+# Multi-Modal Logistics Parks India-Hackathon
 A transport network optimization problem attempted as a part of the IGSA UW-Madison SUPPLY CHAIN HACKATHON - April 2020
 
 ## Problem Statement
